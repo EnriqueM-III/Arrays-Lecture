@@ -27,6 +27,7 @@
 
 	cout << heartRates[3] << endl;
 	cout << heartRates[6] << endl;
+	}
   
 ## Heartrate 2
     #include <iostream>
@@ -64,4 +65,4 @@
 
 
 	
-}
+	}
